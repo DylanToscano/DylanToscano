@@ -29,10 +29,10 @@ Currently embarking in coding proyects for fun. I love programming💻❤️
 - **Misc. Networking**
 
 ### 🌟| Favorites
--Encryption & Databases
--Networking
--Client/Server models.
--Projects with a broad, engaging audience.
+- Encryption & Databases
+- Networking
+- Client/Server models.
+- Projects with a broad, engaging audience.
 
 ### 📫 Contact Information
 
