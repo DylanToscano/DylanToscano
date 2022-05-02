@@ -1,17 +1,32 @@
 ### 👋 Presentation
 
-Hi, I’m Dylan Toscano, a Software Developer and Pilot from Argentina.
-I started programming in Lua when I was 13 years old, and since then software development has been one of the hobbies I have a burning passion for.
-At the moment, I embark in coding proyects for fun. I love programming!
+Hi, I’m Dylan Toscano, a Software Developer and Pilot from Argentina, living in Dubai.
+I started coding in Lua when I was 13 years old, and since then programming has been one of the hobbies I have a burning passion for.
+I have a Technical Highschool diploma as a Software Technician.
+In my past I've done my fair share of Lua commissions, but I'm not professionaly employed in IT at the moment... But I'd love to!
 
-I have a Technical Highschool diploma as a Computer Technician.
+Currently embarking in coding proyects for fun. I love programming💻❤️
 
-### 💻 Qualifications
+### 💻| Languages
 
-- **JavaScript:** Jr/SSr
-- **Java:** Jr/SSr
-- **Lua:** Jr/SSr
-- **C++:** Jr
+- **JavaScript**
+- **Lua**
+- **Java**
+- **MySQL**
+- **C++**
+- **HTML/CSS**
+- .NET/VB
+
+### 🔎| Others
+- **MongoDB**
+- **NodeJS**
+- **Misc. Networking**
+
+### 🌟| Favorites
+-Encryption & Databases
+-Networking
+-Client/Server models.
+-Projects with a broad, engaging audience.
 
 ### 📫 Contact Information
 
