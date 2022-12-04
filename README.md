@@ -18,7 +18,7 @@ Currently embarking in coding proyects for fun. I love programming💻❤️
 - .NET/VB
 
 ### 📃| Projects
-- [Botisti](https://github.com/DylanToscano/botistiV2), a NodeJS/[MongoDB](https://www.mongodb.com/) [discord](https://discord.com/) administration bot for a military-themed online community. This is a WIP project done for fun.
+- [Leutnant Emma](https://github.com/DylanToscano/13er-bot-reborn), a NodeJS/[MongoDB](https://www.mongodb.com/) [discord](https://discord.com/) bot for a military-themed online community. It provides an integrated administration solution directly into discord. Its predecessor is currently active.
 - [Tanks!](https://github.com/DylanToscano/TanksHost), a multiplayer game coded in Java using [LibGDX](https://libgdx.com/). This was my final project to become a software technician. This was a teamwork effort with a friend, and my focus was on networking.
 - [Latzina](https://github.com/DylanToscano/Instituto), a project where we had to create a Visual Studio application connected to a MySQL database to serve as the administration system of a dummy school. Team effort between 3 of us.
 - Various other projects I never end up uploading here.
